@@ -5,3 +5,6 @@ echo "HELLO HAI"
 git add .
 git commit -m "your messages"
 git pusjkkjjhhjkkkkh
+git one
+git two
+git three
